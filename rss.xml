@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TestySite]]></title>
+        <description><![CDATA[TestySite]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 15:20:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://bluelotushealth.com/wp-content/uploads/2013/06/logoNew.png">]]></description>
+            <link>undefined5a977fc7-6d31-4fbd-965e-eb7b6a545995/index.html</link>
+            <guid isPermaLink="false">5a977fc7-6d31-4fbd-965e-eb7b6a545995</guid>
+            <pubDate>Wed, 02 Dec 2015 15:20:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
