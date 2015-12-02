@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TestySite]]></title>
         <description><![CDATA[TestySite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testysite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 15:20:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 15:21:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testysite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blue Lotus Health and Acupuncture | Acupuncture Lexington, KY - Chinese Dietary Therapy Featured In Popular Men's Magazine: DETAILS]]></title>
+            <description><![CDATA[<article><h1>Blue Lotus Health and Acupuncture | Acupuncture Lexington, KY - Chinese Dietary Therapy Featured In Popular Men's Magazine: DETAILS</h1><p>By Western standards, the Paleo-friendly elixir is chock-full of omega-3 fatty acids and vitamin D that boost energy, repair muscle tears and bone injuries, and improve muscle tone. No wonder Kobe and the rest of the Lakers team have incorporated it into their diets.</p><img src="http://bluelotushealth.com/wp-content/uploads/2013/01/Gua-sha-2-700x300.jpg"></article>]]></description>
+            <link>http://bluelotushealth.com/chinese-dietary-therapy-featured-in-popular-mens-magazine-details/</link>
+            <guid isPermaLink="false">10ae10b5-2ffe-4bd0-a998-12f9e7fda370</guid>
+            <pubDate>Wed, 02 Dec 2015 15:20:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://bluelotushealth.com/wp-content/uploads/2013/06/logoNew.png">]]></description>
-            <link>undefined5a977fc7-6d31-4fbd-965e-eb7b6a545995/index.html</link>
+            <link>https://thegrid.ai/testysite/5a977fc7-6d31-4fbd-965e-eb7b6a545995/index.html</link>
             <guid isPermaLink="false">5a977fc7-6d31-4fbd-965e-eb7b6a545995</guid>
             <pubDate>Wed, 02 Dec 2015 15:20:25 GMT</pubDate>
         </item>
